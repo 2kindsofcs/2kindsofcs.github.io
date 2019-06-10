@@ -24,8 +24,8 @@ description: 세상에는 두 종류의 cs가 존재합니다. 저는 그 cs를 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-#     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  Tags:
+#     - TIL: "https://2kindsofcs.github.io/tags/#TIL"
 #     - Learn markdown: "http://www.markdowntutorial.com/"
 #     - GitHub Pages: "https://pages.github.com/"
 #   Author's home: "http://deanattali.com"
