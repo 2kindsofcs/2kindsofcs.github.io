@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: there are 2 kinds of cs in the world. I like THAT cs.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+효율적인 시간 분배와 학습을 좋아합니다. 
+주로 파이썬과 자바스크립트를 사용하며 최근에는 C++, 자바를 배우고 있습니다.
+모든 언어와 모든 마시는 액체를 좋아합니다.
