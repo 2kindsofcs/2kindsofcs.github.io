@@ -66,12 +66,7 @@ var main = {
 
     // show the big header image
     main.initImgs();
-    // Add title to head tag
-    firstHeadText = document.getElementsByTagName("h2")[0].innerText;
-    headTag = document.getElementsByTagName('head')[0];
-    titleTag = document.createElement("title");
-    titleTag.innerText = firstHeadText;
-    headTag.appendChild(titleTag);
+
   },
 
   initImgs : function() {
